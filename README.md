@@ -29,10 +29,7 @@
 - ... Much More
 
 ## Code Structure
-By following the Clean Architect
-- 1
-- 2
-- 3
+Following the [Clean Architect](https://blog.codemagic.io/clean-architecture-explored/), the system architecture guideline proposed by Robert C. Martin (Uncle Bob) derived from many architectural guidelines like Hexagonal Architecture, Onion Architecture, etc... over the years.
 ## Run the code 
 - Download the package from the Market
 - Extract the .zip file
@@ -47,8 +44,10 @@ flutter run
 - [Visual Studio Code](https://docs.flutter.dev/get-started/editor?tab=vscode) or any IDE
 - Flutter [On Windows](https://docs.flutter.dev/get-started/install/windows), [On Linux](https://docs.flutter.dev/get-started/install/linux) or [On MacOS](https://docs.flutter.dev/get-started/install/macos)
 ## Customization
-- Change logo/images
-- Change theme colors
-- Add/remove routing
+- Change logo/images at '/assets/images'
+- Change theme colors at '/lib/themes'
+- Add/remove routing at '/lib/navigation'
+- Change Splash screen at '/lib/components/splash'
+- Or contact us for more supporting
 ## Change logs
 - Version 1.0.0 
