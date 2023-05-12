@@ -30,6 +30,9 @@
 
 ## Code Structure
 Following the [Clean Architect](https://blog.codemagic.io/clean-architecture-explored/), the system architecture guideline proposed by Robert C. Martin (Uncle Bob) derived from many architectural guidelines like Hexagonal Architecture, Onion Architecture, etc... over the years.
+## Requirements
+- [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://docs.flutter.dev/get-started/editor?tab=vscode) or any IDE
+- Flutter [On Windows](https://docs.flutter.dev/get-started/install/windows), [On Linux](https://docs.flutter.dev/get-started/install/linux) or [On MacOS](https://docs.flutter.dev/get-started/install/macos)
 ## Run the code 
 - Download the package from the Market
 - Extract the .zip file
@@ -39,10 +42,6 @@ Following the [Clean Architect](https://blog.codemagic.io/clean-architecture-exp
 flutter pub get
 flutter run
 ```
-### Requirements
-- [Android Studio](https://developer.android.com/studio)
-- [Visual Studio Code](https://docs.flutter.dev/get-started/editor?tab=vscode) or any IDE
-- Flutter [On Windows](https://docs.flutter.dev/get-started/install/windows), [On Linux](https://docs.flutter.dev/get-started/install/linux) or [On MacOS](https://docs.flutter.dev/get-started/install/macos)
 ## Customization
 - Change logo/images at '/assets/images'
 - Change theme colors at '/lib/themes'
