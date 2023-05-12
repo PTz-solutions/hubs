@@ -1,9 +1,33 @@
 # Mentori
 ## Introduction
-What should be here 
-## Features
-- Feature 1
-- Feature 2
+<strong>Mentori</strong> is a flutter online mobile app &amp; a great mentoring platform. With <strong>Mentori</strong>,
+  you can easily search and find a mentor who has the expertise and skills you need to succeed in your field.
+  Whether you're looking to develop new skills, advance in your career, or grow your business, our app has a
+  mentor who can help you reach your goals. <p>Our app offers a variety of features, including one-on-one
+  sessions, group mentorship, and access to a wealth of online resources. You'll have the flexibility to
+  choose the type of mentorship that works best for you and your schedule.</p> <p><strong>Mentori</strong> is easy to use and
+  intuitive, with a user-friendly interface that makes it simple to connect with mentors and access the
+  resources you need. You'll be able to track your progress, set goals, and collaborate with your mentor all
+  within our app.
+## Features: (in both light and dark version)
+- Splash Screen options
+- Home page
+- Singin, Social singin options, Signup, Forgot password
+- Profile Input Details
+- Search mentors
+- Filter Options
+- Messages
+- Audio call
+- Video call
+- Notification
+- Settings
+- Schedule
+- Book mentor
+- View mentor profile
+- Reviews
+- Certificates
+- ... Much More
+
 ## Code Structure
 By following the Clean Architect
 - 1
@@ -16,7 +40,6 @@ By following the Clean Architect
 - Open PowerShell or Commandline to run commands
 ```sh
 flutter pub get
-flutter doctor
 flutter run
 ```
 ### Requirements
@@ -28,11 +51,4 @@ flutter run
 - Change theme colors
 - Add/remove routing
 ## Change logs
-- 
-## Versions
-## License
-License information
-# Other products
-Nothing here
-# About Us
-What is in here 
+- Version 1.0.0 
